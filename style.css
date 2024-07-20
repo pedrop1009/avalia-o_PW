@@ -1,0 +1,55 @@
+* {
+    margin:0px;
+    padding:0px;
+    font-family: segoe UI;
+}
+
+
+body{
+    margin: 0;
+    background-image: url(imagens/choronotri1.jpg);
+    background-size: cover;
+}
+
+header {
+    width: auto;
+    background-color: #e2e2e2;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    border-radius: 16px;
+}
+
+header h1 {
+    padding-left: 32%;
+    color:black
+}
+
+header img {
+    height: 70px;
+    padding: 10px;
+    padding-left: center
+}
+
+nav button{
+    display: inline-block;
+    padding: 0px 16px;
+    background-color:#333;
+    text-decoration:none;
+    border-radius:4px;
+    margin-top:16px;
+    color:#fff
+    
+
+
+}
+
+nav a{
+    color:#fff;
+}
+
+
+
+
+
