@@ -9,6 +9,7 @@ body{
     margin: 0;
     background-image: url(imagens/choronotri1.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 header {
@@ -47,6 +48,21 @@ nav button{
 
 nav a{
     color:#fff;
+}
+
+footer{
+    display:flex;
+    position:absolute;
+    align-items:center;
+    height:3vh;
+    width:100%;
+}
+
+footer{
+    background-color: grey;
+    bottom:0;
+    opacity: 90%;
+
 }
 
 
